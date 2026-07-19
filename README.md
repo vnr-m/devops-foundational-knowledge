@@ -1,1 +1,1 @@
-# iam-niranjan-mudiyala-devops-foundational-knowledge
+# devops-foundational-knowledge
